@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=CC7700&duration=4000&lines=I'm+Omega+!;+Welcome+to+my+GitHub+Page+!;" />
 </h1>
 
-Hi there! I'm Omega, a computer engineering student passionate about all things related to computer science and engineering, especially cybersecurity 🛡️, and recently I've been exploring my interest in quantum computing 🌌.
+Hi there! I'm Omega, a computer engineering student passionate about all things related to computer science and engineering, especially cybersecurity 🛡🔐, and recently I've been exploring my interest in quantum computing ⚛️.
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/antonyuk-vadym/" target="_blank">
@@ -14,18 +14,18 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   </a>
 </div>
 
-## <div align="center">About Me ℹ️</div>
+## <div align="center">About Me 🛈</div>
 
 - 🎓 Currently pursuing my degree in Computer Engineering at the University of Naples Federico II.
 - 💻 Planning to use this GitHub profile as my portfolio to showcase my projects and skills.
 
-## <div align="center">Interests 🌟</div>
+## <div align="center">Interests 🤔💭 </div>
 
 - 🎮 Passionate about video games.
-- 🎬 Enjoys films and music.
-- 📚 Enjoys reading books.
+- 🎬🎧 Enjoys films and music.
+- 📖 Enjoys reading books.
 
-## <div align="center">Additional Links 🌐</div>
+## <div align="center">Additional Links 🔗</div>
 
 - 📚 Check out my reading list on Notion
 
@@ -35,7 +35,7 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   </a>
 </div>
 
-## <div align="center">Languages 💻</div>
+## <div align="center">Languages 👨🏻‍💻</> </div>
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/96/c-programming.png" alt="C" width="48" height="48"/></a>
@@ -48,7 +48,7 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="MySQL" width="48" height="48"/></a>
 </div>
 
-## <div align="center">Tools 🛠️</div>
+## <div align="center">Tools 📱🛠️</div>
 
 <div align="center">
   <a href="https://www.jetbrains.com"><img src="https://ml.globenewswire.com/Resource/Download/c1ef04f6-3d20-4cc0-b18e-596d8af9e6cb" alt="Tool 1" width="48" height="48"/></a>
