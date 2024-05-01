@@ -1,4 +1,4 @@
-# Welcome to Omega's GitHub Page! 👋
+# Welcome to my GitHub Page! 👋
 
 Hi there! I'm Omega, a computer engineering student passionate about all things related to computer science and engineering, especially cybersecurity 🛡️, and recently I've been exploring my interest in quantum computing 🌌.
 
