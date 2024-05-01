@@ -38,24 +38,24 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
 ## <div align="center">Languages 💻</div>
 
 <div align="center">
-  <a href="#"><img src="https://img.icons8.com/color/96/c-programming.png" alt="C" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="Java" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/css3.png" alt="CSS" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/officel/96/php-logo.png" alt="PHP" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="MySQL" width="48" height="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/96/c-programming.png" alt="C" width="48" height="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++" width="48" height="48"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" width="48" height="48"/></a>
+  <a href="https://www.oracle.com/java/"><img src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="Java" width="48" height="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/96/html-5--v1.png" alt="HTML" width="48" height="48"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/96/css3.png" alt="CSS" width="48" height="48"/></a>
+  <a href="https://www.php.net/"><img src="https://img.icons8.com/officel/96/php-logo.png" alt="PHP" width="48" height="48"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="MySQL" width="48" height="48"/></a>
 </div>
 
 ## <div align="center">Tools 🛠️</div>
 
 <div align="center">
-  <a href="#"><img src="https://ml.globenewswire.com/Resource/Download/c1ef04f6-3d20-4cc0-b18e-596d8af9e6cb" alt="Tool 1" width="48" height="48"/></a>
+  <a href="https://www.jetbrains.com"><img src="https://ml.globenewswire.com/Resource/Download/c1ef04f6-3d20-4cc0-b18e-596d8af9e6cb" alt="Tool 1" width="48" height="48"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/96/000000/pycharm--v1.png" alt="PyCharm" width="48" height="48"/></a>
   <a href="https://www.jetbrains.com/clion/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/105px-Clion.svg.png" alt="CLion" width="48" height="48"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
   <a href="https://www.virtualbox.org/"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/96/VirtualBox-icon.png" alt="VirtualBox" width="48" height="48"/></a>
   <a href="https://www.kali.org/"><img src="https://img.icons8.com/plasticine/96/000000/kali-linux.png" alt="Kali Linux" width="48" height="48"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/96/parrot-security--v1.png" alt="Parrot Security" width="48" height="48"/></a>
+  <a href="https://www.parrotsec.org/"><img src="https://img.icons8.com/color/96/parrot-security--v1.png" alt="Parrot Security" width="48" height="48"/></a>
 </div>
