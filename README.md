@@ -11,6 +11,11 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
 
 - 🎮 Im a passionate about video games.
 - 🎬 Enjoys films and music.
+- 📚 Enjoys reading books.
+- 
+## Additional Links 🌐
+
+- 📚 Check out my reading list on [Notion](https://spotty-goat-c18.notion.site/56848bfac7df400588f72381609b5672?v=9a9701fe861a4d2191b48ab003160d70) [<img src="https://img.icons8.com/color/96/000000/notion--v1.png" width="48" height="48"/>](https://spotty-goat-c18.notion.site/56848bfac7df400588f72381609b5672?v=9a9701fe861a4d2191b48ab003160d70)
   
 ## Programming Languages 💻
 
