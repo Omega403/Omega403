@@ -27,6 +27,12 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
 - 🎬🎧 Enjoys films and music.
 - 📖 Enjoys reading books.
 
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=e16sjgwcz9tn6q870oxuywj39&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=e16sjgwcz9tn6q870oxuywj39&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=ff8800&bar_color_cover=false" alt="Spotify Profile Badge" />
+  </a>
+</div>
+
 ## <div align="center">Additional Links 🔗</div>
 
 - 📚 Check out my reading list on Notion (Click on the icon)
