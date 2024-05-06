@@ -29,7 +29,7 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
 
 ## <div align="center">Additional Links 🔗</div>
 
-- 📚 Check out my reading list on Notion
+- 📚 Check out my reading list on Notion (Click on the icon)
 
 <div align="center">
   <a href="https://spotty-goat-c18.notion.site/56848bfac7df400588f72381609b5672?v=9a9701fe861a4d2191b48ab003160d70">
@@ -56,6 +56,7 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   <a href="https://www.jetbrains.com"><img src="https://ml.globenewswire.com/Resource/Download/c1ef04f6-3d20-4cc0-b18e-596d8af9e6cb" alt="Tool 1" width="48" height="48"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/96/000000/pycharm--v1.png" alt="PyCharm" width="48" height="48"/></a>
   <a href="https://www.jetbrains.com/clion/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/105px-Clion.svg.png" alt="CLion" width="48" height="48"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/96/000000/intellij-idea.png" alt="IntelliJ IDEA" width="48" height="48"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt="VS Code" width="48" height="48"/></a>
   <a href="https://www.virtualbox.org/"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/96/VirtualBox-icon.png" alt="VirtualBox" width="48" height="48"/></a>
   <a href="https://www.kali.org/"><img src="https://img.icons8.com/plasticine/96/000000/kali-linux.png" alt="Kali Linux" width="48" height="48"/></a>
