@@ -10,11 +10,15 @@
 
 Hi there! I'm Omega, a computer engineering student passionate about all things related to computer science and engineering, especially cybersecurity 🛡🔐, and recently I've been exploring my interest in quantum computing ⚛️.
 
-<div align="center"> 
+<div align="center">
   <a href="https://www.linkedin.com/in/antonyuk-vadym/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://discordapp.com/users/625697931881611284" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
 </div>
+
 
 ## <div align="center">About Me 🛈</div>
 
