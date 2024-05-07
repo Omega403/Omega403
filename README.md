@@ -73,4 +73,6 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   <a href="https://www.virtualbox.org/"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/96/VirtualBox-icon.png" alt="VirtualBox" width="48" height="48"/></a>
   <a href="https://www.kali.org/"><img src="https://img.icons8.com/plasticine/96/000000/kali-linux.png" alt="Kali Linux" width="48" height="48"/></a>
   <a href="https://www.parrotsec.org/"><img src="https://img.icons8.com/color/96/parrot-security--v1.png" alt="Parrot Security" width="48" height="48"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/96/000000/arduino.png" alt="Arduino" width="48" height="48"/></a>
+  <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="48" height="48"/></a>
 </div>
