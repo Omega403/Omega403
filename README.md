@@ -76,5 +76,7 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" style="width: 52px; height: 52px;"/></a>
   <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/96/000000/arduino.png" alt="Arduino" width="48" height="48"/></a>
   <a href="https://www.tinkercad.com/"><img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/logo-tinkercad-256.png?w=256&ssl=1" alt="Tinkercad" style="width: 44px; height: 44px;"/></a>
+  <a href="https://www.blender.org/"><img src="https://img.icons8.com/color/96/000000/blender-3d.png" alt="Blender" width="48" height="48"/></a>
+  <a href="https://www.unrealengine.com/en-US/"><img src="https://img.icons8.com/color/96/000000/unreal-engine.png" alt="Unreal Engine" width="48" height="48"/></a>
   <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="48" height="48"/></a>
 </div>
