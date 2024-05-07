@@ -73,7 +73,7 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   <a href="https://www.virtualbox.org/"><img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/96/VirtualBox-icon.png" alt="VirtualBox" width="48" height="48"/></a>
   <a href="https://www.kali.org/"><img src="https://img.icons8.com/plasticine/96/000000/kali-linux.png" alt="Kali Linux" width="48" height="48"/></a>
   <a href="https://www.parrotsec.org/"><img src="https://img.icons8.com/color/96/parrot-security--v1.png" alt="Parrot Security" width="48" height="48"/></a>
-  <a href="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" style="width: 52px; height: 52px;"/></a>
+  <a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer/index.html"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="Cisco Packet Tracer" style="width: 52px; height: 52px;"/></a>
   <a href="https://www.arduino.cc/"><img src="https://img.icons8.com/color/96/000000/arduino.png" alt="Arduino" width="48" height="48"/></a>
   <a href="https://www.tinkercad.com/"><img src="https://i0.wp.com/arduinofactory.com/wp-content/uploads/2023/05/logo-tinkercad-256.png?w=256&ssl=1" alt="Tinkercad" style="width: 44px; height: 44px;"/></a>
   <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" width="48" height="48"/></a>
