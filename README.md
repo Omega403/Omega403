@@ -14,9 +14,6 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
   <a href="https://www.linkedin.com/in/antonyuk-vadym/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discordapp.com/users/625697931881611284" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 
@@ -30,14 +27,6 @@ Hi there! I'm Omega, a computer engineering student passionate about all things 
 - 🎮 Passionate about video games.
 - 🎬🎧 Enjoys films and music.
 - 📖 Enjoys reading books.
-
-## <div align="center">I'm listening / Was listening 📻🎶 </div>
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=e16sjgwcz9tn6q870oxuywj39&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=e16sjgwcz9tn6q870oxuywj39&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ff7300&bar_color_cover=false" alt="Spotify Profile Badge" />
-  </a>
-</div>
 
 ## <div align="center">Additional Links 🔗</div>
 
