@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=CC7700&duration=4000&lines=I'm+Omega+!;+Welcome+to+my+GitHub+Page+!;" />
 </h1>
 
-Hi there! I'm Omega, a computer engineering student passionate about all things related to computer science and engineering, especially cybersecurity 🛡🔐, and recently I've been exploring my interest in quantum computing ⚛️.
+Hi there! I'm Omega, a computer engineering student passionate about all things related to computer science and engineering, especially cybersecurity 🛡🔐.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antonyuk-vadym/" target="_blank">
